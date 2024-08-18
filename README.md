@@ -1,6 +1,6 @@
 # Beer-Game-RL
-Solving the beer game with Q-Learning.
-This includes as an environment the logic of the beer game and Q-Learning as the RL-Algorithm.
+Solving the Beer Game using Q-Learning. 
+This includes the logic of the Beer Game as the environment and Q-Learning as the reinforcement learning algorithm.
 
 The model is based on the paper:
 S. Kamal Chaharsooghi, Jafar Heydari, and S. Hessameddin Zegordi. A reinforce-
